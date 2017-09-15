@@ -20,8 +20,9 @@ Or install it yourself as:
     $ gem install lynn_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+LynnViewTool::Renderer.copyright 'Linsey Falkner', 'All rights reserved'
+```
 
 ## Development
 
